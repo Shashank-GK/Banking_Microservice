@@ -1,4 +1,4 @@
-package com.eazybytes.configserver;
+package com.ivoyant.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

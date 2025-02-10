@@ -23,10 +23,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author ABC  Bytes
- */
-
 @Tag(
         name = "CRUD REST APIs for Accounts in ABC Bank",
         description = "CRUD REST APIs in ABC Bank to CREATE, UPDATE, FETCH AND DELETE account details"
@@ -251,6 +247,4 @@ public class AccountsController {
                 .status(HttpStatus.OK)
                 .body(accountsContactInfoDto);
     }
-
-
 }

@@ -1,4 +1,4 @@
-package com.eazybytes.configserver;
+package com.ivoyant.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

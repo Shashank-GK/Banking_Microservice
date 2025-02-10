@@ -1,0 +1,7 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to ABC Bank cards related local APIs "
+  contactDetails:
+    name: "Cards Developer"

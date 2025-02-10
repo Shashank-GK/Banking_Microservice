@@ -1,0 +1,7 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to ABC Bank loans related QA APIs "
+  contactDetails:
+    name: "Loans QA Lead"

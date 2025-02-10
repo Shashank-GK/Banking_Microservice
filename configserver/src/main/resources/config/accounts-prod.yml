@@ -1,0 +1,7 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to ABC Bank accounts related prod APIs "
+  contactDetails:
+    name: "Product Owner"
